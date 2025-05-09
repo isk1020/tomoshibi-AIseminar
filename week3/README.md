@@ -1,1 +1,2 @@
+- [標準化](https://colab.research.google.com/drive/10GCyNfiq4QIfwy_TFOIcd9IXNsV5YL3a?usp=sharing)
 - [タイタニック](https://colab.research.google.com/drive/12CmD_GbhjXfz_DygVfPOoBJVPbYrIs5r?usp=sharing)
